@@ -1,4 +1,7 @@
 This will be a basic README, it will include our Vision statement, and our Scrum backlog
 Vision Statement: Tool that can be used to analyze Cyber Secuirty assessment.  Analyzing a network, which has internet access somewhere.
+The network will be modeled with MbSE, which is a format that can be made with software such as magic draw.
+
 
 People use network simulators, create a Model, to define the system, and do an analysis.
+Backlog could consist of: Research into things similar to this.  Getting to learn magic draw, familar with the software, 
